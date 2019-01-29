@@ -18,6 +18,10 @@ then, results are saved into:
 results/results.csv
 ```
 
+Additionally, added wordcloud feature:
+
+![Atom Screenshot](https://i.postimg.cc/3N0H2jDP/python.png)
+
 Currently JobTeller scraps job adverts from Polish website:
 ```jshint
 www.pracuj.pl
@@ -27,3 +31,4 @@ www.pracuj.pl
 
  - Add more job websites
  - Add visualization
+ - think about what else to add...
